@@ -4,7 +4,7 @@
 
 ## 📌 Prompt
 
-The debugging prompt is available in [`Prompt.md`](./Prompt.md).
+The debugging prompt is available in [`prompt.md`](./prompt.md).
 
  
 
